@@ -1,7 +1,7 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/@madhialways)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@mahdialways)  
+(https://x.com/mahdialways/header_photo)
 # Hi there 👋, I'm Hasan Al Mahdi
 #### I am a professional front end developer
-![I am a professional front end developer](https://x.com/mahdialways/header_photo)
+![I am a professional front end developer]
 
 a passionate web developer with a knack for turning complex problems into elegant, user-friendly solutions. With expertise in HTML, CSS, JavaScript, and modern frameworks, I specialize in building responsive and visually appealing websites and applications.
 
@@ -16,4 +16,4 @@ Skills: JS / HTML / CSS
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Programming  
 - 📫 How to reach me: mahdialwaysworking@gmail.com 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/@madhialways)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@mahdialways)  
