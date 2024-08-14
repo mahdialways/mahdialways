@@ -1,7 +1,7 @@
-(https://x.com/mahdialways/header_photo)
+
 # Hi there 👋, I'm Hasan Al Mahdi
 #### I am a professional front end developer
-![I am a professional front end developer]
+![](https://x.com/mahdialways/header_photo)
 
 a passionate web developer with a knack for turning complex problems into elegant, user-friendly solutions. With expertise in HTML, CSS, JavaScript, and modern frameworks, I specialize in building responsive and visually appealing websites and applications.
 
