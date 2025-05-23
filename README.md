@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Hasan Al-Mahdi
 
-<!--
-**mahdialways/mahdialways** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Student | Aspiring Software Developer | Lifelong Learner
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a dedicated student passionate about programming and web development. I enjoy solving problems and building projects that help me grow my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills & Technologies
+
+- Programming Languages: **C**, **C++**, **JavaScript**
+- Web Development: **HTML**, **CSS**, **JavaScript**
+
+---
+
+## 🚀 What I’m Working On
+
+- Improving my C and C++ programming skills through various projects
+- Building responsive websites using HTML, CSS, and JavaScript
+- Exploring algorithms and data structures to enhance problem-solving abilities
+
+---
+
+## 📫 How to Reach Me
+
+- Email: mahdialwaysworking@gmail.com 
+- GitHub: [github.com/mahdialways](https://github.com/mahdialways)
+
+
+
+Thanks for visiting my profile! Feel free to check out my repositories and projects. 😊
