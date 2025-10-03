@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a dedicated student passionate about programmi
 
 ## 💻 Skills & Technologies
 
-- Programming Languages: **C**, **C++**, **JavaScript**
+- Programming Languages: **C**, **C++**, **JavaScript**, **Python**
 - Web Development: **HTML**, **CSS**, **JavaScript**
 
 ---
@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm a dedicated student passionate about programmi
 ## 🚀 What I’m Working On
 
 - Improving my C and C++ programming skills through various projects
+- Learning advanced C++ programming
 - Building responsive websites using HTML, CSS, and JavaScript
 - Exploring algorithms and data structures to enhance problem-solving abilities
 
